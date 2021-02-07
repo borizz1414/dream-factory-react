@@ -11,3 +11,27 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+@font-face {
+  font-family: 'futura';
+  src: url('assets/fonts/futura-pt-demi.otf') format("opentype");
+}
+
+@font-face {
+  font-family: 'futuraB';
+  src: url('assets/fonts/FuturaBoldfont.ttf') format("opentype");
+}
+
+@font-face {
+  font-family: 'futuraL';
+  src: url('assets/fonts/FuturaLightfont.ttf') format("opentype");
+}
+
+@font-face {
+  font-family: 'futuraBL';
+  src: url('assets/fonts/FuturaBolditalicfont.ttf') format("opentype");
+}
+
+@font-face {
+  font-family: 'futuraLi';
+  src: url('assets/fonts/futuralightbt.ttf') format("opentype");
+}
