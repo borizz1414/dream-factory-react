@@ -1,0 +1,30 @@
+.container-plans{
+    background: #F7F7F7;
+}
+.card-plans{
+    width: 28%;
+}
+#btn-plan{
+    background: #A57D24;
+    width: 70%;
+    color: white;
+    border-radius: 30px;
+}
+.container-slider{
+    height: 50vh;
+}
+#ibis-hotel{
+    color: white;
+    font-family: 'futuraBL';
+    font-size: 5rem;
+}
+#p-ibis{
+    font-family: 'futuraLi';
+    font-size: 1.1rem;
+    color:white;
+    text-align: center;
+}
+#li{
+    font-family: 'futuraLi';
+    font-size: 1.2rem;
+}

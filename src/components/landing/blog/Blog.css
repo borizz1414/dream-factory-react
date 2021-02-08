@@ -1,0 +1,18 @@
+#card-blog{
+    background: #F7F7F7;
+    width: 22%;
+    border-radius: 20px;
+}
+.img-blog{
+    height: 20vh;
+    background: #444;
+}
+.dental-health{
+    background: #A57D24;
+    text-align: center;
+    padding: 2%;
+    color: white;
+    border-radius: 30px;
+    width: 50%;
+    font-family: 'futuraLi';
+}

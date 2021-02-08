@@ -1,8 +1,64 @@
 .container-header{
-    width: 100vw;
+
     height: 100vh;
 
 }
 .items-menu p{
- color:white;
-}
+    color:white;
+    font-size: 20px;
+   }
+   #border-bottom{
+       border-bottom: 3px solid #C6A04F;
+   }
+   .title{
+    font: italic normal bold 100px/128px futuraBL;
+    color:white
+   }
+   #point{
+       color: #C6A04F;
+   }
+   .subtitle p{
+    font: normal normal 300 25px/33px futuraLi;
+    color:white;
+   }
+   h2, p, button{
+       margin:0;
+       font-family: 'futura';
+   }
+   p{
+       color: #AAAAAA;
+   }
+   .card{
+       width: 28vw;
+   }
+   
+   #btn{
+    width: 90%;
+    padding: 4%;
+    background: #A57D24;
+    color: white;
+    border-radius: 30px;
+   }
+   .standard-basic,#outlined-multiline-static{
+       width: 100%;
+   }
+   .text-card{
+       width: 35%;
+       background: #F7F7F7;
+   }
+   .img-card{
+       width: 65%;
+   }
+   .color-title{
+       color:#A57D24;
+       font: normal normal bold 80px/103px futuraB;
+   }
+   .color-subtitle{
+    font: normal normal bold 35px/45px futura;
+    letter-spacing: 0px;
+    color: #1A2227;
+   }
+   .container-text{
+       height: 15vh;
+   }
+   
