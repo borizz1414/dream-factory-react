@@ -6,11 +6,11 @@ import './Header.css';
 export const Header = () => {
     return (
 
-        <div className="container-header" style={{ backgroundImage: "url(/img/slider.jpg)" }}>
+        <div className="container-header" style={{ backgroundImage: "url(https://borizz1414.github.io/dream-factory-react/img/slider.jpg)" }}>
             <Grid container >
                 <Grid item md={5}>
                     <Box mt={3} ml={22}>
-                        <img src='/img/logo-dream-factory.png' width="155" />
+                        <img src='https://borizz1414.github.io/dream-factory-react/img/logo-dream-factory.png' width="155" />
                     </Box>
                 </Grid>
                 <Grid item md={7}>
