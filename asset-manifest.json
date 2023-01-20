@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/dream-factory-react/static/css/main.3517cdf4.chunk.css",
+    "main.js": "/dream-factory-react/static/js/main.90158ad8.chunk.js",
+    "main.js.map": "/dream-factory-react/static/js/main.90158ad8.chunk.js.map",
+    "runtime-main.js": "/dream-factory-react/static/js/runtime-main.cbb33393.js",
+    "runtime-main.js.map": "/dream-factory-react/static/js/runtime-main.cbb33393.js.map",
+    "static/js/2.a749eb58.chunk.js": "/dream-factory-react/static/js/2.a749eb58.chunk.js",
+    "static/js/2.a749eb58.chunk.js.map": "/dream-factory-react/static/js/2.a749eb58.chunk.js.map",
+    "index.html": "/dream-factory-react/index.html",
+    "static/css/main.3517cdf4.chunk.css.map": "/dream-factory-react/static/css/main.3517cdf4.chunk.css.map",
+    "static/js/2.a749eb58.chunk.js.LICENSE.txt": "/dream-factory-react/static/js/2.a749eb58.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/dream-factory-react/static/media/futuralightbt.ead7282f.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbb33393.js",
+    "static/js/2.a749eb58.chunk.js",
+    "static/css/main.3517cdf4.chunk.css",
+    "static/js/main.90158ad8.chunk.js"
+  ]
+}
