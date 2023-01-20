@@ -2,7 +2,7 @@
   "name": "dream-factory-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://borizz1414.github.io/dream-factory-react/",
+  "homepage": ".",
   "dependencies": {
     "@material-ui/core": "^4.11.3",
     "@testing-library/jest-dom": "^5.11.9",
